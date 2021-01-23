@@ -31,3 +31,5 @@ mean(iris[,"sepal_length"])
 mean(iris[which(iris$species == 'Iris.setosa'),"sepal_length"])
 mean(iris$sepal_length[which(iris$species == 'Iris.setosa'),])
 
+#mean
+
